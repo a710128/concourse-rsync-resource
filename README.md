@@ -18,7 +18,7 @@ resource_types:
 - name: rsync-resource
   type: docker-image
   source:
-      repository: mrsixw/concourse-rsync-resource
+      repository: a710128/concourse-rsync-resource
       tag: latest
 
 resources:
